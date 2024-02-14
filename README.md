@@ -16,8 +16,13 @@ Here are some ideas to get you started:
 -->
 
 I am currently working on prework and half way done with it.
+
 I am currently leaning about JavaScript, Git, GitHub and basics of programming.
+
 I am looking to collaborate on projects with others and build something cool.
+
 I am looking for help with whether to declare a variable outside or inside the function, when to include array[i] when looping over array.
+
 You can reach me at paakash127@gmail.com
+
 He/Him
